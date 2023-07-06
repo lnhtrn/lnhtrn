@@ -2,7 +2,7 @@
 
 I'm Linh Tran, a Computer Science student and Natural Language Processing enthusiast at the University of Rochester! 
 
-🔭 I specialize in data engineering and data science with Python, and I enjoy an intensive working environment where I am constantly challenged. I also am good at team working, brainstorming new ideas, and getting everyone focused on the goal of the project. My colleagues would describe me as a creative, flexible but still realistic and logical person. 
+🔭 With experience in NLP, Data Science, and Data Engineering with Python, I'm passionate about creating new changes and discovering new possibilities with Natural Language Processing models and Large Language Models.
 
 🌱 I’m currently seeking internship opportunities to work in Data Engineering and Data Science, or Software Engineering.
 
