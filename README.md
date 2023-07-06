@@ -15,7 +15,9 @@ You can see my projects here!
 🛠️ Skills
 
 Python: pytorch, scikit-learn, transformer, Huggingface models, NumPy, Pandas
+
 Business Intelligence: Tableau, PowerBi
+
 Other programming languages: Java, Javascript
 
 <!--
