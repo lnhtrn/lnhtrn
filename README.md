@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Linh Tran, a Computer Science student and Natural Language Processing enthusiast at the University of Rochester! 
 
@@ -7,12 +7,14 @@ I'm Linh Tran, a Computer Science student and Natural Language Processing enthus
 🌱 I’m currently seeking internship opportunities to work in Data Engineering and Data Science, or Software Engineering.
 
 
-#### 📚 Projects
+
+### 📚 Projects
 
 You can see my projects here! 
 
 
-#### 🛠️ Skills
+
+### 🛠️ Skills
 
 Python: pytorch, scikit-learn, transformer, Huggingface models, NumPy, Pandas
 
