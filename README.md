@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🐋 I'm Linh Tran, a Computer Science student and Natural Language Processing enthusiast at the University of Rochester! 
+🐳 I'm Linh Tran, a Computer Science student and Natural Language Processing enthusiast at the University of Rochester! 
 
 🔭 With experience in NLP, Data Science, and Data Engineering with Python, I'm passionate about creating new changes and discovering new possibilities with Natural Language Processing models and Large Language Models.
 
