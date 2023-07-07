@@ -4,7 +4,7 @@ I'm Linh Tran, a Computer Science student and Natural Language Processing enthus
 
 🔭 With experience in NLP, Data Science, and Data Engineering with Python, I'm passionate about creating new changes and discovering new possibilities with Natural Language Processing models and Large Language Models.
 
-🌱 I’m currently seeking internship opportunities to work in Data Engineering and Data Science, or Software Engineering.
+🌱 I’m currently seeking internship opportunities to work in Data Science, Data Engineering, and Software Engineering.
 
 
 
