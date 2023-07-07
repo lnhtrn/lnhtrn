@@ -27,7 +27,7 @@ Data Analysis & Visualization: Tableau, PowerBi, pandas, numpy, matplotlib, seab
 Programming languages: Python, Java, Javascript, Swift
 
 
-📫 ### Contact me at...
+### 📫 Contact me at...
 
 LinkedIn: https://www.linkedin.com/in/linh-ph-tran/
 
