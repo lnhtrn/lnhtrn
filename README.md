@@ -12,6 +12,10 @@ I'm Linh Tran, a Computer Science student and Natural Language Processing enthus
 
 You can see my projects here! 
 
+| Project Link | Completion Date | Tools | Description |
+| --- | --- | --- | --- |
+| [MRC with Increased Negative Samples](https://github.com/lnhtrn/SQuAD-DeBERTa-negative-samples) | June 2023 | Python, Huggingface, transformer, TensorFlow, PyTorch, numpy, pandas, matplotlib, seaborn | Analysis of DeBERTa v3's performance on SQuAD 2.0 dataset, with and without generated negative samples |
+
 
 
 ### 🛠️ Skills
