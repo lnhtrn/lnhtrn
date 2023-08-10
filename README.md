@@ -20,7 +20,7 @@ You can see my projects here!
 
 ### 🛠️ Skills
 
-Machine Learning & Data Science: Scikit-learn, TensorFlow, PyTorch, Transformer, Huggingface
+Machine Learning & Data Science: Scikit-learn, TensorFlow, PyTorch, Transformer, Huggingface, TorchServe
 
 Data Analysis & Visualization: Tableau, PowerBi, pandas, numpy, matplotlib, seaborn
 
