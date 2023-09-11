@@ -7,15 +7,14 @@
 🌱 I’m currently seeking internship opportunities to work in Data Science, Data Engineering, and Software Engineering.
 
 
-
 ### 📚 Projects
 
 You can see my projects here! 
 
 | Project Link | Completion Date | Tools | Description |
 | --- | --- | --- | --- |
+| [GIDS Biomedical Data Science Hackathon](https://github.com/lnhtrn/Hackathon-Summer-2023) | August 2023 | Python, DoubletDetection, numpy, pandas, matplotlib, seaborn | Implementation and optimization of DoubletDetection to predict doublet cells in single cell sequencing data, achieving a MCC score of 0.556, _highest score amongst Undergraduate Division_. |
 | [MRC with Increased Negative Samples](https://github.com/lnhtrn/SQuAD-DeBERTa-negative-samples) | June 2023 | Python, Huggingface, Transformer, TensorFlow, PyTorch, numpy, pandas, matplotlib, seaborn | Analysis of DeBERTa v3's performance on SQuAD 2.0 dataset, with and without generated negative samples |
-
 
 
 ### 🛠️ Skills
