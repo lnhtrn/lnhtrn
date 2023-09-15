@@ -13,9 +13,9 @@ You can see my projects here!
 
 | Project Link | Completion Date | Tools | Description |
 | --- | --- | --- | --- |
-| [GIDS Biomedical Data Science Hackathon](https://github.com/lnhtrn/Hackathon-Summer-2023) | August 2023 | Python, DoubletDetection, numpy, pandas, matplotlib, seaborn | **First place Undergraduate Division.** Implementation and optimization of DoubletDetection to predict doublet cells in single cell sequencing data, achieving a MCC score of 0.556. |
+| [GIDS Biomedical Data Science Hackathon](https://github.com/lnhtrn/Hackathon-Summer-2023) | August 2023 | Python, DoubletDetection, numpy, pandas, matplotlib, seaborn | **[First place Undergraduate Division]** Implementation and optimization of DoubletDetection to predict doublet cells in single cell sequencing data, achieving a MCC score of 0.556. |
 | [MRC with Increased Negative Samples](https://github.com/lnhtrn/SQuAD-DeBERTa-negative-samples) | June 2023 | Python, Huggingface, Transformer, TensorFlow, PyTorch, numpy, pandas, matplotlib, seaborn | Analysis of DeBERTa v3's performance on SQuAD 2.0 dataset, with and without generated negative samples |
-| [Rocky Road, CSC 214 Hackathon](https://github.com/lnhtrn/Rocky-Road) | November 2022 | Swift (iOS), Object-Oriented Programming | **Second place - Silver Joker price.** An endless running game inspired by University of Rochester's mascot Rocky. |
+| [Rocky Road, CSC 214 Hackathon](https://github.com/lnhtrn/Rocky-Road) | November 2022 | Swift (iOS), Object-Oriented Programming | **[Second place - Silver Joker price]** An endless running game inspired by University of Rochester's mascot Rocky. |
 
 
 ### 🛠️ Skills
