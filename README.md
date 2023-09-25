@@ -18,6 +18,7 @@ You can see my projects here!
 | [Rocky Road, CSC 214 Hackathon](https://github.com/lnhtrn/Rocky-Road) | November 2022 | Swift (iOS), Object-Oriented Programming | **\[Second place - Silver Joker price\]** An endless running game inspired by University of Rochester's mascot Rocky. |
 | [Reversi](https://github.com/lnhtrn/Reversi) | September 2022 | Java, Object-Oriented Programming, Algorithms - Minimax | A Java implementation of the game Reversi/Othello. The computer's (opponent's) logic is determined by randomization or Minimax algorithm. | 
 
+I also have a [Portfolio](https://github.com/lnhtrn/lnhtrn/blob/main/lnhtrn_app_portfolio.pdf) featuring my iOS apps where I coded and designed the apps myself as well! 
 
 ### 🛠️ Skills
 
