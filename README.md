@@ -14,7 +14,8 @@ You can see my projects here!
 | Project Link | Completion Date | Tools | Description |
 | --- | --- | --- | --- |
 | [GIDS Biomedical Data Science Hackathon](https://github.com/lnhtrn/Hackathon-Summer-2023) | August 2023 | Python, DoubletDetection, numpy, pandas, matplotlib, seaborn | **\[First place Undergraduate Division\]** Implementation and optimization of DoubletDetection to predict doublet cells in single cell sequencing data, achieving a MCC score of 0.556. |
-| [MRC with Increased Negative Samples](https://github.com/lnhtrn/SQuAD-DeBERTa-negative-samples) | June 2023 | Python, Huggingface, Transformer, TensorFlow, PyTorch, numpy, pandas, matplotlib, seaborn | Analysis of DeBERTa v3's performance on SQuAD 2.0 dataset, with and without generated negative samples |
+| [MRC with Increased Negative Samples](https://github.com/lnhtrn/SQuAD-DeBERTa-negative-samples) | June 2023 | Python, Huggingface, Transformer, TensorFlow, PyTorch, numpy, pandas, matplotlib, seaborn | Analysis of DeBERTa v3's performance on SQuAD 2.0 dataset, with and without generated negative samples. |
+| [GoodSoup for DandyHack](https://devpost.com/software/goodsoup) | October 2022 | Python, API, Data Scraping, numpy, pandas | **\[Second place - Community Track\]** A project that analyze students’ allergies and food restrictions on University of Rochester's Dining Service’s daily recipes. |
 | [Rocky Road, CSC 214 Hackathon](https://github.com/lnhtrn/Rocky-Road) | November 2022 | Swift (iOS), Object-Oriented Programming | **\[Second place - Silver Joker price\]** An endless running game inspired by University of Rochester's mascot Rocky. |
 | [Reversi](https://github.com/lnhtrn/Reversi) | September 2022 | Java, Object-Oriented Programming, Algorithms - Minimax | A Java implementation of the game Reversi/Othello. The computer's (opponent's) logic is determined by randomization or Minimax algorithm. | 
 
