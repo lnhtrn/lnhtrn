@@ -4,7 +4,7 @@
 
 🔭 With experience in Natural Language Processing, Data Science, and Data Engineering with Python, I'm passionate about creating new changes and discovering new possibilities with Natural Language Processing models and Large Language Models. 
 
-🎮 Besides a minor in Statistics, I also love Creative Writing, Video Game Storytelling and Psychology. 
+🎮 Besides a minor in Mathematics, I also love Creative Writing, Video Game Storytelling and Psychology. 
 
 🌱 I’m currently seeking internship opportunities to work in Data Science, Data Engineering, and Software Engineering.
 
