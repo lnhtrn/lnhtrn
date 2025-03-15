@@ -6,8 +6,16 @@
 
 🎮 Besides a minor in Mathematics, I also love Creative Writing, Video Game Storytelling and Psychology. 
 
-🌱 I’m currently seeking internship opportunities to work in Data Science, Data Engineering, and Software Engineering.
+🌱 Seeking internship opportunities to work in **Machine Learning, Data Science, Data Engineering, and Software Engineering**.
 
+### Connect with Me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linh-ph-tran)
+
+### Technologies/Tools
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code-C%2FC%2B%2B-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Tool-PyTorch_Lightning-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Tool-Transformers-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Tool-Jupyter_Notebook-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Tool-Wandb-informational?style=flat&logo=wandb&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Tool-Linux%2FUnix-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 
 ### 📚 Projects
 
