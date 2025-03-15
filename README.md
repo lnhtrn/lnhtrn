@@ -41,12 +41,6 @@ Data Analysis & Visualization: Tableau, PowerBi, pandas, numpy, matplotlib, seab
 Programming languages: Python, Java, Javascript, Swift
 
 
-### 📫 Contact me at...
-
-LinkedIn: https://www.linkedin.com/in/linh-ph-tran/
-
-Email: ltran18@u.rochester.edu
-
 <!--
 **lnhtrn/lnhtrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
